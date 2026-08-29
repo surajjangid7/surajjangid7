@@ -8,7 +8,7 @@
   <a href="YOUR_LINKEDIN_LINK">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/surajjanid7">
+  <a href="https://github.com/surajjangid7">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
