@@ -34,7 +34,7 @@ learning:
   - C++
   - Web Development
   - Git & GitHub
-'''
+```
 ---
 
 ### 💭 Quote of the Day
