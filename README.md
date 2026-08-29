@@ -2,7 +2,7 @@
 
 # 👋 Hello folks, This is **Suraj Jangid**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;DSA+Enthusiast;Learning+Web+Development;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=DS+Student+%40+SKIT+Jaipur;Aspiring+Software+Developer;DSA+Enthusiast;Learning+Web+Development;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajjanid7)
 
