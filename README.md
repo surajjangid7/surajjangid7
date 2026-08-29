@@ -34,3 +34,14 @@ learning:
   - C++
   - Web Development
   - Git & GitHub
+
+### 💭 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=ANUBHAVSINGH30&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+**Thanks for visiting! ⭐ Feel free to star some repositories if you find them interesting!**
+
+</div>
