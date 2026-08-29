@@ -17,7 +17,7 @@
 
 ```yaml
 name: Suraj Jangid
-github: surajjanid7
+github: surajjangid7
 role: Aspiring Software Developer
 
 current_focus:
