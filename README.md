@@ -46,14 +46,6 @@ learning:
 </div>
 
 ---
-## 🚀 Featured Projects
-
-### 📌 Resume builder 
-A modern web-based resume builder that enables users to create, customize, and download professional resumes effortlessly.
-
-**Tech:** C++ / Python / HTML / CSS
-
-🔗 [View Repository](YOUR_REPOSITORY_LINK)
 
 <div align="center">
   
